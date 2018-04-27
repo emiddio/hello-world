@@ -12,7 +12,6 @@ public class JsonReaderExam {
 
     public static void main(String[] args) throws Exception {
 
-        JsonReaderExam http = new JsonReaderExam();
         String url = "http://localhost:8080/hello/helloworld";
         url = args[0];
 
