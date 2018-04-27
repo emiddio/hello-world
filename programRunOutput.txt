@@ -1,0 +1,74 @@
+ant -f C:\\Sun\\hello-world-git\\hello-world\\JsonReaderExam -Dnb.internal.action.name=run run
+init:
+deps-jar:
+compile:
+run:
+
+Sending 'GET' request to URL : http://localhost:8080/hello/helloworld
+Response Code : 200
+{    "aa": "aa",    "bb": "bb",    "documents": [        {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }    ]}
+jsonapp1.Generic9@61f8bee4[documents=[jsonapp1.Document@7b49cea0[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@887af79[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@7fac631b[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@5b87ed94[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@6e0e048a[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@5bc79255[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}]],additionalProperties={aa=aa, bb=bb}]
+key:aa
+key:bb
+key:a
+key:b
+key:c
+runningTotal:1: itemTotal:1: number: 1
+runningTotal:3: itemTotal:3: number: 2
+runningTotal:6: itemTotal:6: number: 3
+runningTotal:10: itemTotal:10: number: 4
+runningTotal:15: itemTotal:15: number: 5
+runningTotal:21: itemTotal:21: number: 6
+runningTotal:28: itemTotal:28: number: 7
+key:a
+key:b
+key:c
+runningTotal:29: itemTotal:1: number: 1
+runningTotal:31: itemTotal:3: number: 2
+runningTotal:34: itemTotal:6: number: 3
+runningTotal:38: itemTotal:10: number: 4
+runningTotal:43: itemTotal:15: number: 5
+runningTotal:49: itemTotal:21: number: 6
+runningTotal:56: itemTotal:28: number: 7
+key:a
+key:b
+key:c
+runningTotal:57: itemTotal:1: number: 1
+runningTotal:59: itemTotal:3: number: 2
+runningTotal:62: itemTotal:6: number: 3
+runningTotal:66: itemTotal:10: number: 4
+runningTotal:71: itemTotal:15: number: 5
+runningTotal:77: itemTotal:21: number: 6
+runningTotal:84: itemTotal:28: number: 7
+key:a
+key:b
+key:c
+runningTotal:85: itemTotal:1: number: 1
+runningTotal:87: itemTotal:3: number: 2
+runningTotal:90: itemTotal:6: number: 3
+runningTotal:94: itemTotal:10: number: 4
+runningTotal:99: itemTotal:15: number: 5
+runningTotal:105: itemTotal:21: number: 6
+runningTotal:112: itemTotal:28: number: 7
+key:a
+key:b
+key:c
+runningTotal:113: itemTotal:1: number: 1
+runningTotal:115: itemTotal:3: number: 2
+runningTotal:118: itemTotal:6: number: 3
+runningTotal:122: itemTotal:10: number: 4
+runningTotal:127: itemTotal:15: number: 5
+runningTotal:133: itemTotal:21: number: 6
+runningTotal:140: itemTotal:28: number: 7
+key:a
+key:b
+key:c
+runningTotal:141: itemTotal:1: number: 1
+runningTotal:143: itemTotal:3: number: 2
+runningTotal:146: itemTotal:6: number: 3
+runningTotal:150: itemTotal:10: number: 4
+runningTotal:155: itemTotal:15: number: 5
+runningTotal:161: itemTotal:21: number: 6
+runningTotal:168: itemTotal:28: number: 7
+finalRunningTotal: 168
+BUILD SUCCESSFUL (total time: 0 seconds)
