@@ -7,7 +7,7 @@ run:
 Sending 'GET' request to URL : http://localhost:8080/hello/helloworld
 Response Code : 200
 {    "aa": "aa",    "bb": "bb",    "documents": [        {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }, {            "a": "a",            "b": "b",            "c": "c",            "numbers": [1, 2, 3, 4, 5, 6, 7]        }    ]}
-jsonapp1.Generic9@61f8bee4[documents=[jsonapp1.Document@7b49cea0[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@887af79[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@7fac631b[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@5b87ed94[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@6e0e048a[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}], jsonapp1.Document@5bc79255[numbers=[1, 2, 3, 4, 5, 6, 7],additionalProperties={a=a, b=b, c=c}]],additionalProperties={aa=aa, bb=bb}]
+jsonapp1.Generic9@6536e911
 key:aa
 key:bb
 key:a
@@ -71,4 +71,4 @@ runningTotal:155: itemTotal:15: number: 5
 runningTotal:161: itemTotal:21: number: 6
 runningTotal:168: itemTotal:28: number: 7
 finalRunningTotal: 168
-BUILD SUCCESSFUL (total time: 0 seconds)
+BUILD SUCCESSFUL (total time: 1 second)

@@ -1,6 +1,8 @@
 # hello-world
 my first github repo
 -------------------------------------
+20180430 remove all reference to commons-lang3
+-------------------------------------
 JsonReaderExam is a NetBeans Project.
 
 json5.json is the template used at http://www.jsonschema2pojo.org/
